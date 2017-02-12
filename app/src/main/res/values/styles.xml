@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#e67300</item>
+    </style>
+
+    <style name="OrngBtn" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">#ff901a</item>
+        <item name="android:textColor">#4d2800</item>
+    </style>
+
+</resources>
