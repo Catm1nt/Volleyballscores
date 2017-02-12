@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Method is called when Error point +1 button is pressed
+     * Method is called when Error point +1 button is pressed.
      */
     public void errorPointForExemelites(View view) {
         exemelitesScore = exemelitesScore + 1;
